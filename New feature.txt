@@ -1,0 +1,3 @@
+-User can type from keyboard
+-Have a clear button
+-Can process with hide variables - you must give value for each variables
